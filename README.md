@@ -9,3 +9,5 @@ Collaborative Autonomous Driving: Vision and Challenges
 
 
 https://medium.com/@sharad.nataraj/autonomous-vehicles-and-its-challenges-9b23fcf8fd24
+
+https://www.youtube.com/watch?v=iBH-FHVBDQg
